@@ -24,5 +24,5 @@
 ---
 
 ## 🚀 Live Demo / Quick Start
-
+https://maxmentor.github.io/iptv-tester-streamer/
 
